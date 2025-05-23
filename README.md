@@ -1,0 +1,1 @@
+A fun and interactive Rock Paper Scissors game built using HTML, CSS, and JavaScript. This browser-based game allows users to play against the computer with real-time visual feedback and score tracking.
